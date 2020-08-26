@@ -1,6 +1,6 @@
 {
   "name": "LexDAO Contract List",
-  "timestamp": "2020-06-15T12:00:00+00:00",
+  "timestamp": "2020-08-26T23:23:57+00:00",
   "version": {
     "major": 1,
     "minor": 0,
